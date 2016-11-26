@@ -795,14 +795,8 @@ a, button, input, optgroup, select, textarea {
   position: relative;
 }
 .page-header .background img {
-  display: block;
   width: 1920px;
-  height: 800px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-left: -960px;
-  margin-top: -400px;
+  height: 373px;
 }
 .page-header .author {
   background: #ecf0f1;
